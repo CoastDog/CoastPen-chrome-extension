@@ -1,5 +1,5 @@
 # CoastPen Chrome Extension
-hi
+Chrome extension for hand writing app
 
 # Install
 Install gulp by ```npm install -g gulp``` on Linux or Mac.
